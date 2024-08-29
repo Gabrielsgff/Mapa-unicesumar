@@ -1,5 +1,6 @@
 body {
-    background-color: aqua;
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgb(49, 121, 204) 62%, rgb(19, 155, 182) 100%);
+
 }
 
 header {
@@ -37,7 +38,8 @@ p#stitle{
 section#box {
     margin: auto;
     text-align: center;
-    background-color: rgb(1, 88, 189);
+    background: linear-gradient(90deg, rgb(13, 136, 173) 0%, rgb(6, 81, 192) 62%, rgb(15, 12, 173) 100%);
+
     width: 750px;
     height: 270px;
     border-radius: 25px;
